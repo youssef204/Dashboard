@@ -1,0 +1,22 @@
+{
+    "servers" : [
+        {
+            "name" : "apache",
+            "ip" : "192.398.425.210",
+            "states": "1100001010",
+            "response": "0.5"
+        },
+        {
+            "name" : "apacheeee",
+            "ip" : "114.438.412.576",
+            "states": "1100001111",
+            "response": "0.2"
+        },
+        {
+            "name" : "google",
+            "ip" : "457.214.647.754",
+            "states": "0111111010",
+            "response": "0.8"
+        }
+    ]
+}
