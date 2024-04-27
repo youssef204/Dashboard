@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project
 
 ## Getting Started
 
@@ -18,7 +18,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Backend
+
+We used the json-server as our backend running on prt 3001
+
+## About the app
+
+The app is simply showing a dashboard that contains many servers and their states (either up or down) the app is provided with some authentication feature for that the user must login in order to be able to see the dashboard. User also is able to see all the details of the server in addition to registring, logging in and logging out 
+credentials to login:
+email: you@gmail.com
+password: 1234
 
 ## Learn More
 
